@@ -51,3 +51,5 @@ List has park kind arch marry.
 List has park kind arch land.
 
 List is did.
+
+List has major.
