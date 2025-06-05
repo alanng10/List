@@ -18,7 +18,7 @@ class Stack : List
         return true;
     }
 
-    maide prusate Any Top
+    field prusate Any Top
     {
         get
         {
