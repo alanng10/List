@@ -1,0 +1,16 @@
+[Module]
+List.List:0.00.00
+
+[Import]
+System.Infra
+    Any Any
+    Bool Bool
+System.List
+    List List
+
+[Export]
+Stack
+
+[Storage]
+
+[Entry]
