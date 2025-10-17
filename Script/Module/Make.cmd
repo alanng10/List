@@ -1,3 +1,3 @@
 @echo off
 
-call Script\Module\MakeModule List
+call ..\Script\Module\Make List List.List

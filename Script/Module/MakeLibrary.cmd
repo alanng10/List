@@ -1,3 +1,3 @@
 @echo off
 
-call Script\Module\MakeModuleLibrary List
+call ..\Script\Module\MakeLibrary List.List
