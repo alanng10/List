@@ -1,7 +1,7 @@
 @echo off
 
 set Module=%~1
-set DotNetOutFold=.\Out\net8.0
+set DotNetOutFold=..\Class\Out\net8.0
 
 echo Make Library %Module%
 pushd %DotNetOutFold%
